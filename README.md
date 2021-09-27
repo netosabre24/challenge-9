@@ -14,9 +14,11 @@ The purpose of this analysis was to run data analytics on specfic weather data f
 # Results
 
 **June Temperature analysis**
+
 ![SURF JUNE](https://user-images.githubusercontent.com/82550431/134830241-eb9c2c9d-c799-415d-b1a3-512583716c25.PNG)
 
 **December Temperature Analysis**
+
 ![SURF DECEMBER](https://user-images.githubusercontent.com/82550431/134830258-f9c8d3a5-4c00-482f-a874-0e799ba1e879.PNG)
 
 * The mean temperatures of June (74.9°F) and December (71.0°F) only have a difference of 3.9°F.
